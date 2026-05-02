@@ -6,7 +6,7 @@ Una aplicación web de teclado musical interactiva construida exclusivamente con
 
 ## 🚀 Demo
 Puedes ver la aplicación funcionando aquí: 
-`https://tu-usuario.github.io/piano/` *(Sustituye 'tu-usuario' por el tuyo)*
+`https://jvilla86.github.io/piano/`
 
 ## ✨ Características
 - **Sonido Sintético:** Generación de ondas de sonido en tiempo real (Osciladores).
@@ -30,4 +30,4 @@ Puedes ver la aplicación funcionando aquí:
 ## 🛠️ Instalación y Uso local
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/piano.git](https://github.com/tu-usuario/piano.git)
+   git clone [https://github.com/jvilla86/piano.git](https://github.com/tu-usuario/piano.git)
